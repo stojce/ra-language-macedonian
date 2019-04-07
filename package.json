@@ -1,0 +1,24 @@
+{
+  "name": "ra-language-macedonian",
+  "version": "0.0.1",
+  "description": "Macedonian translation for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stojce/ra-language-macedonian.git"
+  },
+  "keywords": [
+    "react-admin",
+    "react",
+    "translation"
+  ],
+  "author": "Stojce Slavkovski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stojce/ra-language-macedonian/issues"
+  },
+  "homepage": "https://github.com/stojce/ra-language-macedonian#readme"
+}
